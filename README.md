@@ -17,5 +17,5 @@
   <!-- GIF -->
   <!-- <img align="right" alt="Cowboy"  height="160" src="https://giphy.com/static/img/error_pages/crying-cowbow-emoji.gif"> -->
   <img align="right" alt="Cowboy"  height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
-
 </div>
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
