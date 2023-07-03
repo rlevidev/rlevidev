@@ -18,4 +18,23 @@
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Cowboy"  height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+      "
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="
+        https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+      "
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </div>
