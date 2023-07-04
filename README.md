@@ -1,6 +1,6 @@
 ### Olá! Sou Levi, mais conhecido como c4id3n ou xorin. <br/>
 
-[![Discord DM](https://img.shields.io/badge/Discord-xorin%232416-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/1097904170348056738/)
+[![Discord DM](https://img.shields.io/badge/Discord-.xorin.-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/1097904170348056738/)
 
 ### Dev Front-End
 
