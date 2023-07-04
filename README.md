@@ -10,7 +10,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c4id3nSecurity&show_icons=true&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4id3nSecurity&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 ---
+
 ## Tecnologías que costumo programar
 
 <div style="display: inline_block"><br>
