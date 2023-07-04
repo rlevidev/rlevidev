@@ -13,7 +13,7 @@
 
 ---
 
-## Tecnologías que costumo programar
+### Tecnologías que costumo programar
 
 ---
 
