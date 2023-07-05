@@ -6,7 +6,7 @@
 ---
 ### Dev Front-End
 
-<div>
+<div align="center">
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c4id3nSecurity&theme=dracula&show_icons=true"/> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4id3nSecurity&layout=compact&theme=dracula&show_icons=true"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sn0wye&theme=dracula"/>
