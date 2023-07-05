@@ -1,4 +1,4 @@
-## &nbsp;Hello! 👋 I'm Levi, better known as c4id3n or xorin. <br/>
+## &nbsp;Hello! 👋 I'm Levi, better known as c4id3n or xorin.
 ---
 
 [![Discord DM](https://img.shields.io/badge/Discord-.xorin.-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/1097904170348056738/)
