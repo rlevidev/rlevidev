@@ -1,10 +1,10 @@
-### Olá! Sou Levi, mais conhecido como c4id3n ou xorin. <br/>
+## &nbsp;Hello! I'm Levi, better known as c4id3n or xorin. <br/>
 ---
 
 [![Discord DM](https://img.shields.io/badge/Discord-.xorin.-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/1097904170348056738/)
 
 ---
-### Dev Front-End
+## &nbsp;Dev Front-End
 
 <div align="center">
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c4id3nSecurity&theme=dracula&show_icons=true"/> -->
@@ -14,7 +14,7 @@
 
 ---
 
-### Tecnologías ou Linguagens que costumo usar:
+## &nbsp;Technologies or Languages I usually use:
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
