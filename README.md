@@ -30,7 +30,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src=""https://skillicons.dev/icons?i=linux,java,js,ts,py,css,html,tailwind,vite,nextjs"/>
+    <img src=""https://skillicons.dev/icons?i=linux,java,js,ts,py,tailwind,vite,react"/>
   </a>
 </p>
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
