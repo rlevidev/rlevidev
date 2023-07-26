@@ -18,8 +18,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,java,js,ts,py,tailwind,vite,react"/>
+    <img src="https://skillicons.dev/icons?i=linux,java,js,ts,py,html,css,tailwind,vite,react,nextjs"/>
   </a>
+  <img align="right" alt="Cowboy"  height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
 </p>
 
 <picture>
