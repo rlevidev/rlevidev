@@ -40,4 +40,4 @@
       alt="github contribution grid snake animation"
       src="https://raw.githubusercontent.com/c4id3nSecurity/c4id3nSecurity/output/github-contribution-grid-snake.svg"
     />
-  </picture>
+</picture>
