@@ -28,6 +28,11 @@
   <img align="center" alt="Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="right" alt="Cowboy"  height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
 </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src=""https://skillicons.dev/icons?i=linux,java,js,ts,py,css,html,tailwind,vite,nextjs"/>
+  </a>
+</p>
 
 <picture>
     <source
