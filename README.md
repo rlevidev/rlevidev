@@ -33,6 +33,7 @@
     <img src=""https://skillicons.dev/icons?i=linux,java,js,ts,py,css,html,tailwind,vite,nextjs"/>
   </a>
 </p>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <picture>
     <source
