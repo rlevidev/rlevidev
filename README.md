@@ -11,9 +11,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4id3nSecurity&layout=compact&theme=dracula&show_icons=true"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=c4id3nSecurity&theme=dracula"/>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snowzinhx&bg_color=030707&color=ffffff&line=37e198&point=212121&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ## &nbsp;Technologies or Languages I usually use:
@@ -23,8 +20,12 @@
     <img src="https://skillicons.dev/icons?i=linux,java,js,ts,py,html,css,tailwind,vite,react,nextjs"/>
   </a>
 </p>
+
+[![C4's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=c4id3nSecurity&line=37e198&point=212121&area=true&hide_border=true&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img align="right" alt="Cowboy"  height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
 
+<!--
 <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -42,4 +43,4 @@
       alt="github contribution grid snake animation"
       src="https://raw.githubusercontent.com/c4id3nSecurity/c4id3nSecurity/output/github-contribution-grid-snake.svg"
     />
-</picture>
+</picture> -->
