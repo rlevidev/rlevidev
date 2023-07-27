@@ -27,6 +27,16 @@
 
 ---
 
+## &nbsp;Tools:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vscode,idea"/>
+  </a>
+</p>
+
+---
+
 ## &nbsp;Studying in this moment:
 
 <p align="center">
@@ -41,7 +51,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go"/>
+    <img src="https://skillicons.dev/icons?i=go,cs,cpp"/>
   </a>
 </p>
 
