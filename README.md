@@ -12,6 +12,8 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=c4id3nSecurity&theme=dracula"/>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snowzinhx&bg_color=030707&color=ffffff&line=37e198&point=212121&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ## &nbsp;Technologies or Languages I usually use:
