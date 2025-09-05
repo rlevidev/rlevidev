@@ -32,7 +32,7 @@
 
 ---
 
-## &nbsp;Main Skills:
+# Main Skills:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -42,7 +42,7 @@
 
 ---
 
-## &nbsp;Tools:
+# Tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,7 +52,7 @@
 
 ---
 
-## &nbsp;Studying in this moment:
+# Studying in this moment:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -62,7 +62,7 @@
 
 ---
 
-## &nbsp;I'm interested in:
+# I'm interested in:
 
 <p align="center">
   <a href="https://skillicons.dev">
