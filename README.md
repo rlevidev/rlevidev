@@ -15,7 +15,7 @@
 
 ---
 
-# GitHub Stats:
+# Estatísticas do GitHub:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rlevidev&show_icons=true&count_private=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&layout=compact&hide_border=true"/>
@@ -32,17 +32,17 @@
 
 ---
 
-# Main Skills:
+# Principais Habilidades:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,tailwind,react,vite,nextjs"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,docker,postgres"/>
   </a>
 </p>
 
 ---
 
-# Tools:
+# Ferramentas:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,7 +52,7 @@
 
 ---
 
-# Studying in this moment:
+# Estudando neste momento:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -62,11 +62,11 @@
 
 ---
 
-# I'm interested in:
+# Estou interessado em:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,cs,cpp"/>
+    <img src="https://skillicons.dev/icons?i=go,cs,cpp,angular"/>
   </a>
 </p>
 
