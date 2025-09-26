@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,docker,postgres"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql"/>
   </a>
 </p>
 
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,docker,postgres"/>
+    <img src="https://skillicons.dev/icons?i=java,docker,postgres,mysql"/>
   </a>
 </p>
 
