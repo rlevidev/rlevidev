@@ -1,5 +1,5 @@
 
-# Sobre mim:
+### Sobre mim:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Levi;Tenho+17+anos+e+sou+desenvolvedor+Back-End;+:%29)](https://git.io/typing-svg)
 
@@ -9,16 +9,16 @@
 
 ---
 
-# Contato: 
+### Contato: 
 
 [![Discord DM](https://img.shields.io/badge/Discord-.xorin.-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/1097904170348056738/)
 
 ---
 
-# Estatísticas do GitHub:
+### Estatísticas do GitHub:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rlevidev&show_icons=true&count_private=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&layout=compact&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rlevidev&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&layout=compact&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlevidev&layout=compact&langs_count=7&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true"/>
 </div>
 
@@ -32,42 +32,18 @@
 
 ---
 
-# Principais Habilidades:
+### Principais Habilidades:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql"/>
 </p>
 
 ---
 
-# Ferramentas:
+### Estou interessado em:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,idea"/>
-  </a>
-</p>
-
----
-
-# Estudando neste momento:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,docker,postgres,mysql"/>
-  </a>
-</p>
-
----
-
-# Estou interessado em:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,cs,cpp,angular"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=go,cs,cpp,angular"/>
 </p>
 
 ---
