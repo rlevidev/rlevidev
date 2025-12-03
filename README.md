@@ -35,7 +35,7 @@
 ### Principais Habilidades:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,go,docker,postgres,sqlite"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,go,docker,git,postgres,sqlite"/>
 </p>
 
 ---
